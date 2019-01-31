@@ -49,7 +49,6 @@
 
   <div class="container-fluid mt-3">
     <?php
-      //$_GET['aralia']
       if (isset($_GET['aralia'])) {
         if ($_GET['aralia']== 'yes') {
     ?>
@@ -73,7 +72,6 @@
     ?>
 
     <?php
-      //$_GET['aralia']
       if (isset($_GET['arborvitae'])) {
         if ($_GET['arborvitae']== 'yes') {
     ?>
@@ -97,7 +95,6 @@
     ?>
 
     <?php
-      //$_GET['aralia']
       if (isset($_GET['ash'])) {
         if ($_GET['ash']== 'yes') {
     ?>
